@@ -1,4 +1,4 @@
-void develop() {}
+void develop(String hotfix) {}
 
 void featureLoan() {}
 void featureWork() {}
