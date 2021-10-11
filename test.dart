@@ -6,3 +6,5 @@ void featureWork() {}
 void release() {
   print('release 1.0.0');
 }
+
+void featureGDEFlutter(){}
